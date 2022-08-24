@@ -2,9 +2,9 @@ const shoutouts = {
     "bmmochi": "Check out this just chatting streamer pretending to be an overwatch streamer at twitch.tv/bmmochi."
 };
 
-function shoutout(target) {
+function shoutout(target, url, game) {
     if (target in shoutouts) {
         return shoutouts[target];
     }
-    return "$($(twitch $(touser) \"Check out {{displayName}} at {{url}}. They were last playing {{game}}\"))";
+    return 'Check out ${target} at ${url}. They were last playing ${game}';
 }
