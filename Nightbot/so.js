@@ -6,5 +6,5 @@ function shoutout(target, url, game) {
     if (target in shoutouts) {
         return shoutouts[target];
     }
-    return 'Check out ${target} at ${url}. They were last playing ${game}';
+    return `Check out ${target} at ${url}. They were last playing ${game}`;
 }
