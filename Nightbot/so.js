@@ -6,5 +6,5 @@ function shoutout(target) {
     if (target in shoutouts) {
         return shoutouts[target];
     }
-    return "$(twitch $(touser) \"Check out {{displayName}} at {{url}}. They were last playing {{game}}\")";
+    return "$($(twitch $(touser) \"Check out {{displayName}} at {{url}}. They were last playing {{game}}\"))";
 }
