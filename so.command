@@ -1,0 +1,1 @@
+$(eval $(urlfetch json https://raw.githubusercontent.com/zacker150/Stream/main/Nightbot/so.js) shoutout("$(touser)", "$(twitch $(touser) "{{displayName}}")", "$(twitch $(touser) "{{url}}")", "$(twitch $(touser) "{{game}}")"))
