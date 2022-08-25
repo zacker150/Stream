@@ -1,6 +1,7 @@
 const shoutouts = {
     "afetalpig": "Check out Caboose, I mean Pig's stream at https://www.twitch.tv/afetalpig	",
-    "bmmochi": "Check out this just chatting streamer pretending to be an Overwatch streamer at twitch.tv/bmmochi.",
+    "bmmochi": "Check out this just chatting streamer pretending to be an Overwatch streamer at https://www.twitch.tv/bmmochi.",
+    "julov": "Witness the power of the scalable rabbit. https://www.twitch.tv/julov",
     "fitti": "One day, Fitti will stream again. We graciously await that day at twitch.tv/fitti.",
     "iflynick": "One day, he will finish his discord bot. Check out iFlyNick at https://www.twitch.tv/iflynick",
     "lindseybear_": "Check Lindsey out at https://www.twitch.tv/lindseybear_ Just don't get her started on red velvet cake.",
