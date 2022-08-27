@@ -5,7 +5,8 @@ const shoutouts = {
     "fitti": "One day, Fitti will stream again. We graciously await that day at twitch.tv/fitti.",
     "iflynick": "One day, he will finish his discord bot. Check out iFlyNick at twitch.tv/iflynick",
     "lindseybear_": "Check Lindsey out at twitch.tv/lindseybear_ Just don't get her started on red velvet cake.",
-    "moontsukitsuki": "Grab MoonTsukiTsuki a Kombucha at twitch.tv/moontsukitsuki."
+    "moontsukitsuki": "Grab MoonTsukiTsuki a Kombucha at twitch.tv/moontsukitsuki.",
+    "kiapiaa": "Kia needs attention. twitch.tv/kiapiaa"
 };
 
 function shoutout(target, displayName, url, game) {
