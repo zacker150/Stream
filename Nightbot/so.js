@@ -7,7 +7,7 @@ const shoutouts = {
     "lindseybear_": "Check Lindsey out at twitch.tv/lindseybear_ Just don't get her started on red velvet cake.",
     "moontsukitsuki": "Grab MoonTsukiTsuki a Kombucha at twitch.tv/moontsukitsuki.",
     "kiapiaa": "Kia needs attention. twitch.tv/kiapiaa",
-    "fuzhpuzy": "I hear my twin in Fuzh's channel really likes puns. twitch.tv/fuzhpuzy"
+    "fuzhpuzy": "Welcome to IKEA. twitch.tv/fuzhpuzy"
 };
 
 function shoutout(target, displayName, url, game) {
